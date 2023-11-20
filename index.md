@@ -2,8 +2,7 @@
 # __Bem-vindo!__
 # __Welcome!__
 
-** Em construção **
-** Working in progress ** 
+** Em construção / Working in progress ** 
 
 Sou Lucas Júnio Calsavara Andrade e estou atualizando todo o conteúdo, para em breve, tudo estar devidamente funcionando.
 No mais, recomendo que acesse meu [LinkedIn](https://www.linkedin.com/in/lucasxaum/). 
